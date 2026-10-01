@@ -1,0 +1,9 @@
+// extened language of js
+// strong language
+// we need to define data type
+// var, let , const are the variables
+// ease of use
+// tsc -- init  this is for creating  (initialize) tsconfig.json file 
+// the importance of tscofig is created when type script initialized , 
+// for the compile the type script file  conditions and configurations are  written in  the tsconfig file
+// tsx  -type script executor along with npx 
